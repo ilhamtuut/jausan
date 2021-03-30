@@ -1,0 +1,59 @@
+{
+  "name": "Jausan",
+  "version": "3.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "color": "^3.1.2",
+    "jetifier": "^1.6.4",
+    "moment": "^2.24.0",
+    "native-base": "^2.13.4",
+    "react": "16.8.6",
+    "react-native": "0.60.5",
+    "react-native-calendars": "^1.264.0",
+    "react-native-camera": "^3.21.0",
+    "react-native-carousel-view": "^0.5.1",
+    "react-native-easy-grid": "^0.2.2",
+    "react-native-gesture-handler": "^1.3.0",
+    "react-native-get-location": "^1.4.2",
+    "react-native-htmlview": "^0.15.0",
+    "react-native-image-picker": "^1.0.2",
+    "react-native-loading-spinner-overlay": "^1.0.1",
+    "react-native-modal-datetime-picker": "^7.5.0",
+    "react-native-modalbox": "^1.7.1",
+    "react-native-parallax-scroll-view": "^0.21.3",
+    "react-native-sensors": "^5.4.1",
+    "react-native-share": "^3.2.0",
+    "react-native-swiper": "^1.5.14",
+    "react-native-table-component": "^1.2.0",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-view-pdf": "^0.10.1",
+    "react-native-webview": "^8.1.2",
+    "react-navigation": "^3.11.1",
+    "react-redux": "^7.1.0",
+    "redux": "^4.0.4",
+    "redux-form": "^8.2.5",
+    "redux-persist": "^5.10.0",
+    "redux-thunk": "^2.3.0",
+    "remote-redux-devtools": "^0.5.16",
+    "remote-redux-devtools-on-debugger": "^0.8.3",
+    "rn-fetch-blob": "^0.12.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.5.5",
+    "@babel/runtime": "7.5.5",
+    "@react-native-community/eslint-config": "0.0.3",
+    "babel-jest": "24.9.0",
+    "eslint": "6.2.0",
+    "jest": "24.9.0",
+    "metro-react-native-babel-preset": "0.54.1",
+    "react-test-renderer": "16.8.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
